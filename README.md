@@ -58,6 +58,7 @@ $ns at 5.0 "finish"
 $ns run
  
 # OUTPUT
+![e41](https://github.com/user-attachments/assets/32be1ad8-b3dc-42e9-9fb6-7ace841e8c5c)
 
 
 # RESULT
